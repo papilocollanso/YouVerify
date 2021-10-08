@@ -31,7 +31,8 @@ string would not become smaller than the orignal string, your method should retu
 This was done using **Vitejs Application** to execute things up faster.
 Remember to change the source file (main.js) in the index.html to any of the task files in .js to see the workings of task displaying on the browser.
 
-Run npm run dev to start the vite application server.
+      Run npm install for the dependencies
+      Run npm run dev to start the vite application server. 
 
 # Author
  ***Prosper*** ***Collins*** papilocollanso@gmail.com
