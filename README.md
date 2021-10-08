@@ -30,6 +30,7 @@ string would not become smaller than the orignal string, your method should retu
  # How To Run
 This was done using **Vitejs Application** to execute things up faster.
 Remember to change the source file (main.js) in the index.html to any of the task files in .js to see the workings oftask displaying on the browser.
+
 Run npm run dev to start the vite application server.
 
 # Author
