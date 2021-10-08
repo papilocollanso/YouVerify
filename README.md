@@ -28,10 +28,15 @@ pale, bake -> false
 string would not become smaller than the orignal string, your method should return the original string. You can assme the string has only uppercase and lowercase letters (a-z).
  
  # How To Run
- This was done using **Vitejs Application** to execute things up faster.
- Remember to change the source file (main.js) in the index.html to any of the task files in .js to see the workings of task displaying on the browser.
- 
- # Author
+This was done using **Vitejs Application** to execute things up faster.
+Remember to change the source file (main.js) in the index.html to any of the task files in .js to see the workings oftask displaying on the browser.
+Run npm run dev to start the vite application server.
+
+# Author
  ***Prosper*** ***Collins*** papilocollanso@gmail.com
 
+
+
+
+ 
 
